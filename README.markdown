@@ -1,8 +1,8 @@
-= thepub
+# thepub
 
 Nothing more than a direct extraction of [Repub's](http://github.com/invisiblellama/repub) epub module and associated tests.
 
-== Note on Patches/Pull Requests
+## Note on Patches/Pull Requests
  
 * Fork the project.
 * Make your feature addition or bug fix.
@@ -13,6 +13,6 @@ Nothing more than a direct extraction of [Repub's](http://github.com/invisiblell
    bump version in a commit by itself I can ignore when I pull)
 * Send me a pull request. Bonus points for topic branches.
 
-== Copyright
+## Copyright
 
 Copyright (c) 2010 Dmitri Goutnik, Invisible Llama. See LICENSE for details.

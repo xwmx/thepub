@@ -5,11 +5,11 @@ begin
   require 'jeweler'
   Jeweler::Tasks.new do |gem|
     gem.name = "thepub"
-    gem.summary = %Q{TODO: one-line summary of your gem}
-    gem.description = %Q{TODO: longer description of your gem}
+    gem.summary = %Q{Extraction of Repub's epub module and associated tests}
+    gem.description = %Q{Extraction of Repub's epub module and associated tests}
     gem.email = "hi@williammelody.com"
     gem.homepage = "http://github.com/autodata/thepub"
-    gem.authors = ["William Melody"]
+    gem.authors = ["Dmitri Goutnik, Invisible Llama", "William Melody"]
     gem.add_development_dependency "thoughtbot-shoulda"
     gem.add_dependency "nokogiri"
     # gem is a Gem::Specification... see http://www.rubygems.org/read/chapter/20 for additional settings

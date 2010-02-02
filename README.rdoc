@@ -1,6 +1,6 @@
 = thepub
 
-Description goes here.
+Nothing more than a direct extraction of [Repub's](http://github.com/invisiblellama/repub) epub module and associated tests.
 
 == Note on Patches/Pull Requests
  
@@ -15,4 +15,4 @@ Description goes here.
 
 == Copyright
 
-Copyright (c) 2010 William Melody. See LICENSE for details.
+Copyright (c) 2010 Dmitri Goutnik, Invisible Llama. See LICENSE for details.

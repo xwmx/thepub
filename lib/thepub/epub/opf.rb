@@ -56,7 +56,7 @@ module Thepub
             builder.dc :relation do
               builder << self.relation
             end if self.relation
-            builder.dc :creator do                  # TODO: roles
+            builder.dc :creator, 'opf:role' => "aut" do     # TODO: roles
               builder << self.creator
             end if self.creator
             builder.dc :publisher do

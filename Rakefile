@@ -8,7 +8,7 @@ begin
     gem.summary = %Q{Extraction of Repub's epub module and associated tests}
     gem.description = %Q{Extraction of Repub's epub module and associated tests}
     gem.email = "hi@williammelody.com"
-    gem.homepage = "http://github.com/autodata/thepub"
+    gem.homepage = "http://github.com/alphabetum/thepub"
     gem.authors = ["Dmitri Goutnik, Invisible Llama", "William Melody"]
     gem.add_development_dependency "thoughtbot-shoulda"
     gem.add_dependency "nokogiri"

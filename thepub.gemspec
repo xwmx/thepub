@@ -5,11 +5,11 @@
 
 Gem::Specification.new do |s|
   s.name = %q{thepub}
-  s.version = "0.0.0"
+  s.version = "0.0.2"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Dmitri Goutnik, Invisible Llama", "William Melody"]
-  s.date = %q{2010-02-01}
+  s.date = %q{2010-03-29}
   s.description = %q{Extraction of Repub's epub module and associated tests}
   s.email = %q{hi@williammelody.com}
   s.extra_rdoc_files = [
@@ -35,10 +35,10 @@ Gem::Specification.new do |s|
      "test/test_opf.rb",
      "thepub.gemspec"
   ]
-  s.homepage = %q{http://github.com/autodata/thepub}
+  s.homepage = %q{http://github.com/alphabetum/thepub}
   s.rdoc_options = ["--charset=UTF-8"]
   s.require_paths = ["lib"]
-  s.rubygems_version = %q{1.3.5}
+  s.rubygems_version = %q{1.3.6}
   s.summary = %q{Extraction of Repub's epub module and associated tests}
   s.test_files = [
     "test/test_helper.rb",
